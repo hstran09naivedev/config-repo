@@ -1,6 +1,6 @@
 app:
   environment: "Development"
-  message: "Hello from DEV environment updated 3"
+  message: "Hello from DEV environment updated 4"
   database:
     url: "jdbc:mysql://localhost:3306/dev_db"
     username: "dev_user"
