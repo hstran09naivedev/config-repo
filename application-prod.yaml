@@ -1,0 +1,6 @@
+app:
+  environment: "Production"
+  message: "Hello from PROD environment"
+  database:
+    url: "jdbc:mysql://prod-server:3306/prod_db"
+    username: "prod_user"

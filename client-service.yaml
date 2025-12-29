@@ -1,0 +1,3 @@
+app:
+  service-name: "Client Service"
+  custom-property: "This is specific to client-service"

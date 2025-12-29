@@ -1,0 +1,6 @@
+app:
+  environment: "Development"
+  message: "Hello from DEV environment"
+  database:
+    url: "jdbc:mysql://localhost:3306/dev_db"
+    username: "dev_user"

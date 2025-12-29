@@ -1,0 +1,12 @@
+# Common configuration for all environments
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    health:
+      show-details: always
+
+app:
+  common-message: "This is a common configuration"
